@@ -4,17 +4,16 @@ Reimagines the tale in a pop-art aesthetic using generative patterns, loops, and
 
 ---
 
-## 📚 Table of Contents
-- [Project Structure](#-project-structure)
-- [🚀 How to Run](#-how-to-run)
-- [✨ Features](#-features)
-- [🧠 Code Literacy (What I Practice)](#-code-literacy-what-i-practice)
-- [🎨 Output Previews](#-output-previews)
-- [🧩 Technical Notes](#-technical-notes)
-- [📚 References (APA style)](#-references-apa-style)
-- [🤖 Declaration of GenAI Use](#-declaration-of-genai-use)
-- [🔭 Roadmap](#-roadmap)
-- [© Author](#-author)
+## Table of Contents
+- [Project Structure](#project-structure)
+- [How to Run](#how-to-run)
+- [Features](#features)
+- [Code Literacy](#code-literacy-what-i-practice)
+- [Output Previews](#output-previews)
+- [References](#references-apa-style)
+- [GenAI Declaration](#declaration-of-genai-use)
+- [Roadmap](#roadmap)
+- [Author](#author)
 
 ---
 
