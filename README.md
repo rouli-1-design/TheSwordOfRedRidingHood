@@ -18,7 +18,7 @@ Reimagines the tale in a pop-art aesthetic using generative patterns, loops, and
 
 ---
 
-## Project Structure
+##  Project Structure
 
 
 ---
