@@ -5,7 +5,7 @@ Reimagines the tale in a pop-art aesthetic using generative patterns, loops, and
 ---
 
 ## 📚 Table of Contents
-- [📦 Project Structure](#-project-structure)
+- [Project Structure](#-project-structure)
 - [🚀 How to Run](#-how-to-run)
 - [✨ Features](#-features)
 - [🧠 Code Literacy (What I Practice)](#-code-literacy-what-i-practice)
@@ -18,7 +18,7 @@ Reimagines the tale in a pop-art aesthetic using generative patterns, loops, and
 
 ---
 
-## 📦 Project Structure
+## Project Structure
 
 
 ---
