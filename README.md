@@ -1,4 +1,3 @@
-# TheSwordOfRedRidingHood
 # The Sword of Little Red Riding Hood
 Creative coding visual art using **Processing (Python Mode)**.  
 Reimagines the tale in a pop-art aesthetic using generative patterns, loops, and custom functions.
