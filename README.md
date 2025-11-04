@@ -17,7 +17,7 @@ Reimagines the tale in a pop-art aesthetic using generative patterns, loops, and
 
 ---
 
-##  Project Structure
+## Project Structure
 
 
 ---
@@ -26,33 +26,33 @@ Reimagines the tale in a pop-art aesthetic using generative patterns, loops, and
 
 ---
 
-## ✨ Features
+## Features
 
 ---
 
-## 🧠 Code Literacy (What I Practice)
-
-
----
-
-## 🎨 Output Previews
+## Code Literacy (What I Practice)
 
 
 ---
 
-## 🧩 Technical Notes
+## Output Previews
+
 
 ---
 
-## 📚 References (APA style)
+## Technical Notes
 
 ---
 
-## 🤖 Declaration of GenAI Use
+## References (APA style)
 
 ---
 
-## 🔭 Roadmap
+## Declaration of GenAI Use
+
+---
+
+## Roadmap
 
 
 ---
