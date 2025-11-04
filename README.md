@@ -1,29 +1,28 @@
-# The Sword of Little Red Riding Hood
+# 🐺 The Sword of Little Red Riding Hood
 Creative coding visual art using **Processing (Python Mode)**.  
 Reimagines the tale in a pop-art aesthetic using generative patterns, loops, and custom functions.
 
 ---
 
-##  Table of Contents
-- [ Project Structure](#-project-structure)
-- [ How to Run](#-how-to-run)
-- [ Features](#-features)
-- [ Code Literacy (What I Practice)](#-code-literacy-what-i-practice)
-- [ Output Previews](#-output-previews)
-- [ Technical Notes](#-technical-notes)
-- [ References (APA style)](#-references-apa-style)
-- [ Declaration of GenAI Use](#-declaration-of-genai-use)
-- [ Roadmap](#-roadmap)
-- [ Author](#-author)
+## 📚 Table of Contents
+- [📦 Project Structure](#-project-structure)
+- [🚀 How to Run](#-how-to-run)
+- [✨ Features](#-features)
+- [🧠 Code Literacy (What I Practice)](#-code-literacy-what-i-practice)
+- [🎨 Output Previews](#-output-previews)
+- [🧩 Technical Notes](#-technical-notes)
+- [📚 References (APA style)](#-references-apa-style)
+- [🤖 Declaration of GenAI Use](#-declaration-of-genai-use)
+- [🔭 Roadmap](#-roadmap)
+- [© Author](#-author)
 
 ---
 
-##  Project Structure
-
+## 📦 Project Structure
 
 ---
 
-##  How to Run
+## 🚀 How to Run
 1. Install **Processing**: https://processing.org  
 2. Open `main.pyde` in **Python Mode**  
 3. Click **Run ▶**  
@@ -33,7 +32,7 @@ Reimagines the tale in a pop-art aesthetic using generative patterns, loops, and
 
 ---
 
-##  Features
+## ✨ Features
 - Generative pop-art dots/shape patterns driven by **loops** and **randomisation**  
 - **Color palettes** controlled via **lists/arrays**  
 - **Custom functions** for reusable drawing logic  
@@ -41,7 +40,7 @@ Reimagines the tale in a pop-art aesthetic using generative patterns, loops, and
 
 ---
 
-##  Code Literacy (What I Practice)
+## 🧠 Code Literacy (What I Practice)
 - **Variables** → control sizes, positions, colours  
 - **Lists** → manage palettes and layers  
 - **Loops** → structure repetition and patterns  
@@ -49,19 +48,19 @@ Reimagines the tale in a pop-art aesthetic using generative patterns, loops, and
 
 ---
 
-##  Output Previews
+## 🎨 Output Previews
 **Static example:**  
 ![Final Output](assets/pop_art_pattern.png)
 
 **Video demo (optional):**  
- [View Demo Video on Google Drive](https://drive.google.com/yourlinkhere)
+🎥 [View Demo Video on Google Drive](https://drive.google.com/yourlinkhere)
 
 > Replace the link above with your own uploaded demo video or GIF.  
 > (For large files >100MB, use Google Drive instead of GitHub.)
 
 ---
 
-##  Technical Notes
+## 🧩 Technical Notes
 - **Language:** Processing (Python Mode)  
 - **Libraries:** Built-in Processing graphics API  
 - **Tested on:** Processing 4.x (Mac & Windows)  
@@ -69,7 +68,7 @@ Reimagines the tale in a pop-art aesthetic using generative patterns, loops, and
 
 ---
 
-##  References (APA style)
+## 📚 References (APA style)
 - Shiffman, D. (2015). *Learning Processing: A beginner’s guide to programming images, animation, and interaction.* Morgan Kaufmann.  
 - Processing.org. (2019). *Processing official documentation.* https://processing.org  
 - Matsumoto City Museum of Art. (2016). *Yayoi Kusama: Soul of a Place.*  
@@ -78,7 +77,7 @@ Reimagines the tale in a pop-art aesthetic using generative patterns, loops, and
 
 ---
 
-##  Declaration of GenAI Use
+## 🤖 Declaration of GenAI Use
 Tool used: **DeepSeek / ChatGPT (OpenAI)**  
 Purpose: **Grammar checking and translation support** for README and reflection writing.  
 Advantages: Provided clarity in phrasing and improved tone.  
@@ -88,16 +87,18 @@ Disadvantages: Occasionally misunderstood creative context, requiring manual cor
 
 ---
 
-##  Roadmap
-- Add keyboard-triggered palette changes   
-- Export frames as image sequences for print   
-- Integrate sound visualisation for narrative rhythm  
+## 🔭 Roadmap
+- Add keyboard-triggered palette changes 🎨  
+- Export frames as image sequences for print 🖼️  
+- Integrate sound visualisation for narrative rhythm 🔊  
 
 ---
 
-##  Author
+## © Author
 **Rou Li**  
 University of Technology Sydney — *52685 Working with Data and Code*  
 📧 your.email@example.com (optional)  
+
+---
 
 ---
