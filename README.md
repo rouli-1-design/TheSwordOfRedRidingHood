@@ -22,7 +22,7 @@ Reimagines the tale in a pop-art aesthetic using generative patterns, loops, and
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ---
 
